@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f8d7da;
+    color: #721c24;
+}
+.message-box {
+    text-align: center;
+    border: 1px solid #f5c6cb;
+    padding: 20px;
+    background-color: #f8d7da;
+    border-radius: 5px;
+}
+.message-box img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+.message-box h1 {
+    margin: 0;
+    font-size: 24px;
+}
+.message-box p {
+    margin: 10px 0 0;
+    font-size: 18px;
+}

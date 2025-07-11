@@ -1,0 +1,123 @@
+/* *
+{
+    margin: 0px;
+    padding: 0px;
+} */
+body 
+{
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+#haldiram
+{
+    padding-left: 450px;
+}
+#but
+{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#specials
+{
+    display:flex;
+    gap: 10px;
+    /* text-wrap: wrap; */
+   width:100%;
+   overflow-x: auto; 
+   height:322px;
+    
+}
+#premium
+{
+    display:inline-flex;
+    overflow-x: auto;
+    width:100%;
+    height:322px;
+    
+}
+#hello
+{
+    background-color: rgb(255, 255, 255);
+    /* position: sticky; */
+    width:100%;
+    height:250px;
+    
+}
+#but1
+{
+    background-color:rgb(249, 121, 121);
+    
+}
+#pre 
+{
+    background-color: #ffcc00;
+    padding: 10px ;
+    /* position: sticky; */
+}
+#pre1 
+{
+    background-color: #ffcc00;
+    padding: 5px ;
+    /* position: sticky; */
+}
+nav li 
+{
+    display: inline-block;
+    margin-right: 20px;
+    
+}
+#abt
+{
+    text-decoration-color: rgb(233, 94, 94);
+}
+#last
+{
+    display: inline-flex;
+    
+}
+#lt
+{
+    text-align: center;
+}
+footer 
+{
+    text-align: center;
+    padding: 20px 0;
+    background-color: #333;
+    color: white;
+}
+#divfoot
+{
+    display: inline-flex;
+}
+#xyg
+{
+    display: inline-block;
+    width:100%;  
+}
+#categ
+{
+    text-align: center;
+}
+#list
+{
+    list-style-type: none;
+}
+#a1:hover
+{
+    transform: scale(1.1);
+}
+#a2:hover
+{
+    transform: scale(1.1);
+}
+#a3:hover
+{
+    transform: scale(1.1);
+}
+#a4:hover
+{
+    transform: scale(1.1);
+    timeline-scope: slow;
+}
